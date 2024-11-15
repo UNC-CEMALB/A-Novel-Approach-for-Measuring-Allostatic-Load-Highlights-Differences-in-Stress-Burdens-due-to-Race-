@@ -4,7 +4,7 @@ Code that associates with "A Novel Approach for Measuring Allostatic Load Highli
 
 > The goal of this project was to compare physiological markers of stress using primary and secondary mediator biomarkers across various demographic groups (ie. sex, race, and smoking status).
 
-In the instance that the files are unable to rendered on Github the files can be viewed using NBViewer [here]()
+In the instance that the files are unable to rendered on Github the files can be viewed using NBViewer [here](https://nbviewer.org/github/UNC-CEMALB/A-Novel-Approach-for-Measuring-Allostatic-Load-Highlights-Differences-in-Stress-Burdens-due-to-Race-/tree/main/)
 
 # 1. Mediator Score Calculation
 - Imputed missing data using the Quantile Regression Imputation of Left-Censored (QRILC) technique
