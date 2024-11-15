@@ -1,6 +1,10 @@
-# P1012.-Allostatic-Load
+# A Novel Approach for Measuring Allostatic Load Highlights Differences in Stress Burdens due to Race, Sex and Smoking Status
 
-The goal of this project was to compare physiological markers of stress across various demographic groups.
+Code that associates with "A Novel Approach for Measuring Allostatic Load Highlights Differences in Stress Burdens due to Race, Sex and Smoking Status", currently under review.
+
+> The goal of this project was to compare physiological markers of stress using primary and secondary mediator biomarkers across various demographic groups (ie. sex, race, and smoking status).
+
+In the instance that the files are unable to rendered on Github the files can be viewed using NBViewer [here]()
 
 # 1. Mediator Score Calculation
 - Imputed missing data using the Quantile Regression Imputation of Left-Censored (QRILC) technique
@@ -10,3 +14,6 @@ The goal of this project was to compare physiological markers of stress across v
 - Calculated allostatic load (AL) scores for each subject which serves as a measure of stress (combines acute and chronic stress)
 - t tests were run to test for statistical difference in acute stres, chronic stress, and AL across race, sex, and smoking status groups
 - ANOVA and post hoc t tests were run to test for differences in subjects further stratified within those demographic groups
+
+# 3. Mediator Distribtion Analysis (Table S4-S6)
+- Ran t test to test for statistical differences in mediators across race, sex, and smoking status groups
