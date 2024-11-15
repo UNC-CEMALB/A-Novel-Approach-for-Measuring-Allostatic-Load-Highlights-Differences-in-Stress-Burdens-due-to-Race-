@@ -16,4 +16,4 @@ In the instance that the files are unable to rendered on Github the files can be
 - ANOVA and post hoc t tests were run to test for differences in subjects further stratified within those demographic groups
 
 # 3. Mediator Distribtion Analysis (Table S4-S6)
-- Ran t test to test for statistical differences in mediators across race, sex, and smoking status groups
+- Ran t tests to test for statistical differences in mediators across race, sex, and smoking status groups
