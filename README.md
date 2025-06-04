@@ -1,6 +1,6 @@
 # A Novel Approach for Measuring Allostatic Load Highlights Differences in Stress Burdens due to Race, Sex and Smoking Status
 
-Script that associates with "A Novel Approach for Measuring Allostatic Load Highlights Differences in Stress Burdens due to Race, Sex and Smoking Status", currently under review.
+Script that associates with "A Novel Approach for Measuring Allostatic Load Highlights Differences in Stress Burdens due to Race, Sex and Smoking Status", published in PLoS One in 2025 (PMID: 40455807). doi:https://doi.org/10.1371/journal.pone.0323788
 
 > The goal of this project was to compare physiological markers of stress using primary and secondary mediator biomarkers across various demographic groups (ie. sex, race, and smoking status).
 
